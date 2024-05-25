@@ -1,5 +1,12 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model List<Pokemon_Montero.Models.Pokemon>
+
+<h2>Pokemon List</h2>
+
+<ul>
+    @foreach (var pokemon in Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Pokemon", new { name = pokemon.Name })">@pokemon.Name</a>
+        </li>
+    }
+</ul>
