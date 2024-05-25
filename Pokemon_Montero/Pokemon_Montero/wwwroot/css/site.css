@@ -19,7 +19,7 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-image: url("/images/Enamorus V-1280x800.jpg");
+    background-image: url('../images/Enamorus V-1280x800.jpg');
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center;

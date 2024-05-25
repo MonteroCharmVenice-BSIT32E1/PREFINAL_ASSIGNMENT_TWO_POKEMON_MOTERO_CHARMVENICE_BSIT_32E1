@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\wwwroot\\images\\enamorus v-1280x800.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\wwwroot\\images\\enamorus v-1280x800.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|solutionrelative:pokemon_montero\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3178AED8-CA74-41BE-AA56-5E6C7A817336}|Pokemon_Montero\\Pokemon_Montero.csproj|c:\\users\\moyla\\documents\\github\\prefinal_assignment_two_pokemon_motero_charmvenice_bsit_32e1\\pokemon_montero\\pokemon_montero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,19 +79,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Pokemon_Montero\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:29:17.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pokemon_Montero\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:26:23.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enamorus V-1280x800.jpg -  [English (United States)] - Bitmap [1280x800, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg",
+              "RelativeDocumentMoniker": "Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg -  [English (United States)] - Bitmap [1280x800, 24 bit, JPG]",
+              "RelativeToolTip": "Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg -  [English (United States)] - Bitmap [1280x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-25T09:20:55.903Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1280x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pokemon_Montero\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:06:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pokemon_Montero\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T09:02:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Pokemon_Montero\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Pokemon_Montero\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-25T08:55:37.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon_Montero\\Program.cs",
@@ -84,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Pokemon\\Index.cshtml",
               "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\Pokemon\\Index.cshtml",
@@ -97,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Views\\Pokemon\\Details.cshtml",
               "RelativeDocumentMoniker": "Pokemon_Montero\\Views\\Pokemon\\Details.cshtml",
@@ -110,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PokemonController.cs",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "Pokemon_Montero\\Controllers\\PokemonController.cs",
@@ -123,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Models\\Pokemon.cs",
               "RelativeDocumentMoniker": "Pokemon_Montero\\Models\\Pokemon.cs",

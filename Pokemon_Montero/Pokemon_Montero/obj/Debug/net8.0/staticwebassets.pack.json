@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg",
+      "PackagePath": "staticwebassets\\images\\Enamorus V-1280x800.jpg"
+    },
+    {
       "Id": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

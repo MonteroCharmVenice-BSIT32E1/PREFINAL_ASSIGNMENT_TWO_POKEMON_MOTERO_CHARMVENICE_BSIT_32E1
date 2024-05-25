@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1p4Z3TpqO++NicfMXEoUTZ4CFYMDckQxMnqbzgTMqzM=",
+  "Hash": "mUM2BUrzAP1uwWMnwDbHOVZwAOXsn0EXmpbsXq0QBww=",
   "Source": "Pokemon_Montero",
   "BasePath": "_content/Pokemon_Montero",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\images\\Enamorus V-1280x800.jpg",
+      "SourceId": "Pokemon_Montero",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\",
+      "BasePath": "_content/Pokemon_Montero",
+      "RelativePath": "images/Enamorus V-1280x800.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Enamorus V-1280x800.jpg"
     },
     {
       "Identity": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\wwwroot\\js\\site.js",
