@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pokemon_Montero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acff626b13b286a7e8f290b217372d0f48fbd54f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01235e6a8ba5089f9e777abc02922c4ca6b5d797")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pokemon_Montero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pokemon_Montero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
