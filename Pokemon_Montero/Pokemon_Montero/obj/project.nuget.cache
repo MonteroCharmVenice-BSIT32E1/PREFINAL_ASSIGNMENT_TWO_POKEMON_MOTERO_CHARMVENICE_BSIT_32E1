@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2Wci+TRA1j33z92pmKmAtSzDAiYFkoe489x6dfvf1HNKsWqql0dWug7DYorj2O5kv4cG5cQSd3vCixp/c/UfFQ==",
+  "dgSpecHash": "dDZvCUXg7sNbNYuy76MhXhdp8mt6sNY0sZyei4lEVMj0T++pZgFjk80lF2Svr9xCC7GFhd5SyeEMENwkAG065w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Moyla\\Documents\\GitHub\\PREFINAL_ASSIGNMENT_TWO_POKEMON_MOTERO_CHARMVENICE_BSIT_32E1\\Pokemon_Montero\\Pokemon_Montero\\Pokemon_Montero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Moyla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Moyla\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
